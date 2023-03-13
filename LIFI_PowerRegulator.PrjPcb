@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HVORBLLC
 
 [Document3]
 DocumentPath=accessPoint.SchLib
@@ -115,6 +115,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVFHWFDQ
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LIFI_PowerRegulator\Design Rule Check - powerRegulator.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
